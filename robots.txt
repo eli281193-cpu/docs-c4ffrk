@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-ghbj5c.cuansalam.cfd/sitemap.xml
